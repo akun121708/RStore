@@ -4,7 +4,7 @@ biji=`date +"%Y-%m-%d" -d "$dateFromServer"`
 #########################
 REPO1="https://raw.githubusercontent.com/myridwan/abc/ipuk/"
 REPO="https://raw.githubusercontent.com/myridwan/scriptvps/ipuk/"
-CDNF="https://raw.githubusercontent.com/myridwan/vvip/ipuk"
+CDNF="https://raw.githubusercontent.com/akun121708/RStore/main/"
 ###
 BURIQ () {
     curl -sS https://raw.githubusercontent.com/akun121708/izinvps/main/ip > /root/tmp
