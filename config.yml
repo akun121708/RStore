@@ -1,18 +1,18 @@
 debug: false
-uuid: 0df37694-a2be-4862-977b-b048438115a2
-token_id: PFbr8BTP42wwGBob
-token: qCK9zi0eASCakf0StQHnCGVdZNHmJLdnix3jlvuIGD3ojM20Cm9KFBWU1ZhEeZYZ
+uuid: 457b4670-52f4-4000-9d7c-139e79c12898
+token_id: deSCTeX0ZPHG6Eau
+token: W1uDTzh5QoR1rySJEoWucwtcSrHdKMmGtNWaQvDMPd0pQ0M2WYawfxeBAvC1Evej
 api:
   host: 0.0.0.0
   port: 8080
   ssl:
     enabled: true
-    cert: /etc/letsencrypt/live/node-jexa.zrillhosting.site/fullchain.pem
-    key: /etc/letsencrypt/live/node-jexa.zrillhosting.site/privkey.pem
+    cert: /etc/letsencrypt/live/node.devbotz.my.id/fullchain.pem
+    key: /etc/letsencrypt/live/node.devbotz.my.id/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/Jexactyl/volumes
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://www.zrillhosting.site'
+remote: 'https://my-panelkuu.devbotz.my.id'
