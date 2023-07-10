@@ -1,14 +1,14 @@
 debug: false
-uuid: 457b4670-52f4-4000-9d7c-139e79c12898
-token_id: deSCTeX0ZPHG6Eau
-token: W1uDTzh5QoR1rySJEoWucwtcSrHdKMmGtNWaQvDMPd0pQ0M2WYawfxeBAvC1Evej
+uuid: 87c8beee-6a65-4567-8859-0d78ad109114
+token_id: gnYiWdknRM0xXMlS
+token: ASSnZsbWOxPqt44l3UZv2yy9HQwcP3WxuMZXUbvcPDdvWN1bS7ZCKwiK4YrINsRF
 api:
   host: 0.0.0.0
   port: 8080
   ssl:
     enabled: true
-    cert: /etc/letsencrypt/live/node.devbotz.my.id/fullchain.pem
-    key: /etc/letsencrypt/live/node.devbotz.my.id/privkey.pem
+    cert: /etc/letsencrypt/live/devbotz.mahirmandala.my.id/fullchain.pem
+    key: /etc/letsencrypt/live/devbotz.mahirmandala.my.id/privkey.pem
   upload_limit: 100
 system:
   data: /var/lib/Jexactyl/volumes
