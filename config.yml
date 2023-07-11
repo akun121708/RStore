@@ -1,7 +1,7 @@
 debug: false
-uuid: 87c8beee-6a65-4567-8859-0d78ad109114
-token_id: gnYiWdknRM0xXMlS
-token: ASSnZsbWOxPqt44l3UZv2yy9HQwcP3WxuMZXUbvcPDdvWN1bS7ZCKwiK4YrINsRF
+uuid: 0f8314d0-dcbb-4719-a155-c7a3b65d8ea4
+token_id: 9lwro4xCBEE7tacD
+token: 1FsuK4rL7enZF8fVxMrMLKBUdfIIJlpJYY9fohDI0APrghTdSiy7doeKjOHk3YkM
 api:
   host: 0.0.0.0
   port: 8080
@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://my-panelkuu.devbotz.my.id'
+remote: 'https://my-storee.devbotz.my.id'
